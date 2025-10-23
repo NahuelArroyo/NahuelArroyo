@@ -1,4 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nahuel Arroyo</h1>
+<h3 align="center">A passionate backend developer with strong experience in designing and developing robust APIs, implementing real-time communication with WebSockets, and managing both relational (like SQL) and non-relational (NoSQL) databases. Proficient in Java development and enthusiastic about machine learning and deep learning, always seeking to apply new technologies and paradigms.</h3>
+
+- 🔭 I’m currently studying on [FaMAF, Computer Science](https://www.famaf.unc.edu.ar/)
+
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+
+- 🤝 I’m looking for help with **problems that focus on object's paradigm**
+
+- 📫 How to reach me **nahuelarroyo05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
